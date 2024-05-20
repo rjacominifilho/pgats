@@ -1,0 +1,14 @@
+{
+  "name": "pgatstrabalhoprogramacao",
+  "version": "1.0.0",
+  "description": "Trabalho de conclusão da disciplina de programação para automação de testes de software da PGTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Jacomini, Rodrigo",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
